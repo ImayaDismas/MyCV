@@ -58,7 +58,7 @@ body {
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", "Roboto","Ubuntu","Lora", Helvetica, Arial, sans-serif;
 }
 
-h1,h3, h4 {
+h1,h2,h3, h4 {
   color: black;
 }
 h1 {
@@ -179,16 +179,13 @@ tbody th {
   text-transform: uppercase;
 }
 tbody td {
-  border-top: 1px solid black;
   padding-top: 21px;
 }
 tbody td h4.textWeight {
   font-weight: 500
 }
-tbody td.rightBorder {
-  border-right: 1px solid black;
-}
 tbody tr.bottomBorder {
+  border-top: 1px solid black;
   border-bottom: 1px solid black;
 }
 tbody td:first-of-type {
