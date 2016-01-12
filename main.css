@@ -78,19 +78,6 @@ h5{
     font-weight: 200;
     color: black;
 }
-
-.logo {
-    height: 0;
-    font-size: 36px;
-    line-height: 44px;
-    padding: 0 0 22px 0;
-    text-transform: uppercase;
-    margin-top: 10px;
-}
-.tagline {
-  margin: 66px 0 22px 0;
-    text-align: right;
-}
 .container {
   margin: 0 auto;
   padding-left: 30px;
@@ -102,41 +89,6 @@ h1, h3, h4,, p {
 }
 header{
     background: #fff;
-}
-.primary-nav {
-  font-size: 14px;
-  font-weight: 400;
-  letter-spacing: .5px;
-  text-transform: uppercase;
-}
-.primary-footer small {
-    float: left;
-    font-weight: 400;
-}
-.primary-footer {
-    color: black;
-    font-size: 14px;
-    padding-bottom: 44px;
-    padding-top: 44px;
-    
-}
-.container{
-  margin: 0 auto;
-  width: 960px;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.nav {
-  color: black;
-  text-align: right;
-}
-.nav li {
-  display: inline-block;
-  margin: -50px 10px;
-  vertical-align: top;
-}
-.nav li:last-child {
-  margin-right: 0;
 }
 .row {
   min-width: 960px;
@@ -167,10 +119,6 @@ td {
 thead {
   line-height: 44px;
 }
-thead th {
-  color: #648880;
-  font-size: 24px;
-}
 tbody th {
   color: #a9b2b9;
   font-size: 14px;
@@ -180,9 +128,6 @@ tbody th {
 }
 tbody td {
   padding-top: 21px;
-}
-tbody td h4.textWeight {
-  font-weight: 500
 }
 tbody tr.bottomBorder {
   border-top: 1px solid black;
@@ -198,12 +143,4 @@ tbody td:only-of-type {
   padding-left: 0;
   padding-right: 0;
 }
-table a {
-  color: #888;
-}
-table h4 {
-  margin-bottom: 0;
-}
-.menu-offset {
-  color: #a9b2b9;
-}
+
